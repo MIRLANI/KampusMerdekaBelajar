@@ -1,5 +1,5 @@
 Rincian materi Pelatihan
-1. HTML dan CSS
+1. Web disign
 2. JS
 3. PHP
 4. Github
@@ -7,3 +7,4 @@ Rincian materi Pelatihan
 6. Laravel
 7. Rest API
 8. PHP dan MySQL
+9. final Projek
