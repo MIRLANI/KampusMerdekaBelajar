@@ -1,2 +1,0 @@
-# KampusMerdekaBelajar
-Praktik Pembuatan Repositori
